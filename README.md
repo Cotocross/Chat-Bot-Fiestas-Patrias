@@ -15,14 +15,16 @@ El chatbot cuenta con dos personalidades que puedes alternar en cualquier moment
 ### Modo Experto 🇨🇱
 *Tu compañero ideal para todo lo relacionado con las Fiestas Patrias.* Te dará consejos responsables, te contará sobre tradiciones, comidas típicas y responderá a tus preguntas de forma amable y servicial.
 
-![Modo Normal](https://i.imgur.com/Zq4iL7c.png)
+![Ejemplo Modo Experto 1](https://i.imgur.com/5LOGMUr.png)
+![Ejemplo Modo Experto 2](https://i.imgur.com/UNxntXv.png)
 
 ### Modo Flaite 😒😎
 ⚠️ **¡Atención! Presiona este botón bajo tu propio riesgo.** ⚠️
 
 *El lado irreverente y cómico del chatbot.* **NO TOMES EN SERIO SUS CONSEJOS**, ya que te dará puros "anti-consejos" absurdos en tono de broma. Su único objetivo es hacerte reír con su particular visión del mundo. ¡Ajajaja!
 
-![Modo Flaite](https://i.imgur.com/eKSxrCQ.png)
+![Ejemplo Modo Flaite 1](https://i.imgur.com/eKSxrCQ.png)
+![Ejemplo Modo Flaite 2](https://i.imgur.com/o45kQcF.png)
 
 ## 📂 Estructura del Proyecto
 
