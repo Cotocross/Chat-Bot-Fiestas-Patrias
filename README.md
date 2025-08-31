@@ -4,6 +4,13 @@
 
 Un chatbot interactivo y de doble personalidad que utiliza la potencia de la **Inteligencia Artificial (Google Gemini)** para celebrar las Fiestas Patrias de Chile. El usuario puede cambiar entre un asistente experto en las tradiciones chilenas y un personaje cómico que ofrece "anti-consejos" con jerga local.
 
+## 👨‍💻 Autor
+
+Creado por **[Alejandro Javier Contreras Olate]**
+
+*   **GitHub:** [`@Cotocross`](https://github.com/Cotocross)
+*   **LinkedIn:** [`@Alejandro Contreras Olate`](https://www.linkedin.com/in/alejandro-contreras-olate-131b562b9) 
+
 **[Visita la demo en vivo aquí](https://chat-bot-fiestas-patrias.vercel.app/)**
 
 ---
@@ -119,9 +126,4 @@ Este proyecto está desplegado en **Vercel**. El proceso es automático: cada ve
 
 Las claves de API y otros secretos se gestionan de forma segura a través de las **Environment Variables** del proyecto en el dashboard de Vercel, asegurando que no queden expuestas en el código fuente.
 
-## 👨‍💻 Autor
 
-Creado por **[Alejandro Javier Contreras Olate]**
-
-*   **GitHub:** [`@Cotocross`](https://github.com/Cotocross)
-*   **LinkedIn:** [`@Alejandro Contreras Olate`](https://www.linkedin.com/in/alejandro-contreras-olate-131b562b9) 
