@@ -43,6 +43,7 @@ chatbot-fiestas-patrias/
 │   └── utils.ts           # Funciones de utilidad
 ├── public/
 │   └── ...                # Archivos estáticos (imágenes, etc.)
+├── LICENSE                # Licencia del proyecto
 ├── next.config.mjs        # Configuración de Next.js
 └── package.json           # Dependencias y scripts
 ```
