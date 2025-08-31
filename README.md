@@ -110,4 +110,4 @@ Creado por **[Alejandro Javier Contreras Olate]**
 
 *   **Instrucción:** Reemplaza `[Tu Nombre]` y `tu-usuario` con tu información.
 *   **GitHub:** [`@Cotocross`](https://github.com/Cotocross)
-*   **LinkedIn:** `www.linkedin.com/in/alejandro-contreras-olate-131b562b9`
+*   **LinkedIn:** [`@Alejandro Contreras Olate`](www.linkedin.com/in/alejandro-contreras-olate-131b562b9) 
