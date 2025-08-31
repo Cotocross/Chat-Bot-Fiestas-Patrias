@@ -84,7 +84,6 @@ Sigue estos pasos para ejecutar el proyecto en tu propia máquina.
 #### Pasos
 
 1.  **Clona el repositorio:**
-    *   **Instrucción:** Reemplaza `tu-usuario` con tu nombre de usuario de GitHub.
     ```bash
     git clone https://github.com/Cotocross/Chat-Bot-Fiestas-Patrias.git
     ```
@@ -123,6 +122,5 @@ Las claves de API y otros secretos se gestionan de forma segura a través de las
 
 Creado por **[Alejandro Javier Contreras Olate]**
 
-*   **Instrucción:** Reemplaza `[Tu Nombre]` y `tu-usuario` con tu información.
 *   **GitHub:** [`@Cotocross`](https://github.com/Cotocross)
-*   **LinkedIn:** [`@Alejandro Contreras Olate`](www.linkedin.com/in/alejandro-contreras-olate-131b562b9) 
+*   **LinkedIn:** [`@Alejandro Contreras Olate`](https://www.linkedin.com/in/alejandro-contreras-olate-131b562b9) 
