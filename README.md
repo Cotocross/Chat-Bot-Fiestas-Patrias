@@ -11,13 +11,13 @@ Creado por **[Alejandro Javier Contreras Olate]**
 *   **GitHub:** [`@Cotocross`](https://github.com/Cotocross)
 *   **LinkedIn:** [`@Alejandro Contreras Olate`](https://www.linkedin.com/in/alejandro-contreras-olate-131b562b9) 
 
-**[Visita la demo en vivo aquí](https://chat-bot-fiestas-patrias.vercel.app/)**
-
 ---
 
 ## 🎭 Modos de Personalidad
 
 El chatbot cuenta con dos personalidades que puedes alternar en cualquier momento para cambiar el tono de la conversación.
+
+**[Visita la demo en vivo aquí](https://chat-bot-fiestas-patrias.vercel.app/)**
 
 ### Modo Experto 🇨🇱
 *Tu compañero ideal para todo lo relacionado con las Fiestas Patrias.* Te dará consejos responsables, te contará sobre tradiciones, comidas típicas y responderá a tus preguntas de forma amable y servicial.
