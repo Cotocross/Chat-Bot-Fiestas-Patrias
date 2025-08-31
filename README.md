@@ -8,8 +8,21 @@ Un chatbot interactivo y de doble personalidad que utiliza la potencia de la **I
 
 ---
 
-![Captura de pantalla del proyecto](https://i.imgur.com/URL_DE_TU_IMAGEN.png)
-*   **Instrucción:** Reemplaza la URL de arriba con una captura de pantalla de tu aplicación. Puedes subir una imagen a [Imgur](https://imgur.com/upload) y pegar el enlace directo.
+## 🎭 Modos de Personalidad
+
+El chatbot cuenta con dos personalidades que puedes alternar en cualquier momento para cambiar el tono de la conversación.
+
+### Modo Experto 🇨🇱
+*Tu compañero ideal para todo lo relacionado con las Fiestas Patrias.* Te dará consejos responsables, te contará sobre tradiciones, comidas típicas y responderá a tus preguntas de forma amable y servicial.
+
+![Modo Normal](https://i.imgur.com/Zq4iL7c.png)
+
+### Modo Flaite 😒😎
+⚠️ **¡Atención! Presiona este botón bajo tu propio riesgo.** ⚠️
+
+*El lado irreverente y cómico del chatbot.* **NO TOMES EN SERIO SUS CONSEJOS**, ya que te dará puros "anti-consejos" absurdos en tono de broma. Su único objetivo es hacerte reír con su particular visión del mundo. ¡Ajajaja!
+
+![Modo Flaite](https://i.imgur.com/eKSxrCQ.png)
 
 ## 📂 Estructura del Proyecto
 
