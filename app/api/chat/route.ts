@@ -3,8 +3,8 @@ import { type NextRequest, NextResponse } from "next/server";
 // Importación de axios para realizar peticiones HTTP a la API de Gemini.
 import axios from "axios";
 
-// URL del endpoint de la API de Gemini para el modelo gemini-1.5-flash.
-const GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent";
+// URL del endpoint de la API de Gemini para el modelo gemini-2.5-flash.
+const GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent";
 
 /**
  * Manejador de la petición POST para el endpoint /api/chat.
